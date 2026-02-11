@@ -5,25 +5,24 @@
 
 ### 🌸 About Me
 - 💻 Passionate about learning new skills, devalopping beautifull functionnal websites.
-- 🎯 Currently learning java, 
+- 🎯 Currently learning java, laravel, react. 
 - 🚀 Always trying to improve my frontend and backend skills.
 
 ---
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,java,react,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,java,react,php,laravel,eclipse," />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikoo-oo&show_icons=true&theme=rose_pine" />
 </p>
 
 ---
 
 ### 💌 Connect with Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: your-linkedin
+- 📧 Email: ouidir.ikrama2@gmail.com
