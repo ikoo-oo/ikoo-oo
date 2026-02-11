@@ -11,7 +11,8 @@
 - 💻 Passionate about building beautiful & functional websites  
 - 🌱 Learning Java, Laravel & React  
 - 🚀 Improving frontend & backend daily  
-- 🎨 Love clean UI & modern design  
+- 🎨 Love clean UI & modern design
+- For more information visit my portfolio <a href='https://ikoo-oo.github.io/'>Love</a> 
 
 ---
 
