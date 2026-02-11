@@ -4,15 +4,15 @@
 ---
 
 ### 🌸 About Me
-- 💻 Passionate about building beautiful UI
-- 🎯 Currently learning JavaScript & React
-- 🚀 Always improving my frontend skills
+- 💻 Passionate about learning new skills, devalopping beautifull functionnal websites.
+- 🎯 Currently learning java, 
+- 🚀 Always trying to improve my frontend and backend skills.
 
 ---
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,java,react,php,laravel" />
 </p>
 
 ---
