@@ -24,14 +24,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikram&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikram&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ikoo-oo&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikoo-oo&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
 
 <p align="center">
-  📧 <a href="mailto:ouidir.ikram2@gmail.com">ouidir.ikram2@gmail.com</a>
+  📧 <a href="mailto:ouidir.ikram2@gmail.com">ouidir.ikrama2@gmail.com</a>
 </p>
 
 ---
