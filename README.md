@@ -21,5 +21,11 @@
 - 📧 Email: ouidir.ikrama2@gmail.com
 
 ---
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ikoo-oo&show_icons=true&theme=rose_pine" />
+</p>
 
-<footer>;copy& 2026 Made with so mush love and code!</footer>
+---
+
+<footer>&copy; 2026 Made with so mush love and code!</footer>
